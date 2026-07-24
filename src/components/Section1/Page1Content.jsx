@@ -4,7 +4,7 @@ import Pagecontentsection2 from './Pagecontentsection2'
 
 const Page1Content = () => {
   return (
-    <div className='w-full h-[90vh] px-10 py-7 flex gap-3'>
+    <div className='w-full h-[90vh] px-10 py-10 flex gap-3'>
         <Pagecontentsection1/>
         <Pagecontentsection2/>
     </div>
